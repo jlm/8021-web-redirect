@@ -35,6 +35,9 @@ RewriteRule ^/1/pages/802d.html         http://1.ieee802.org/tsn/802d/          
 RewriteRule ^/1/pages/802e.html         http://1.ieee802.org/security/802e/         [P,L]
 RewriteRule ^/1/pages/802.1xbx.html     http://1.ieee802.org/security/802-1xbx/     [P,L]
 RewriteRule ^/1/pages/802.1x-2010.html  http://1.ieee802.org/security/802-1x/       [P,L]
+RewriteRule ^/1/pages/802.1AS-rev.html  http://1.ieee802.org/tsn/802-1as-rev/       [P,L]
+RewriteRule ^/1/pages/802.1AX-rev.html  http://1.ieee802.org/tsn/802-1ax-rev/       [P,L]
+RewriteRule ^/1/pages/802.1Q-rev.html   http://1.ieee802.org/maintenance/802-1q-rev/ [P,L]
 RewriteRule ^/1/pages/OIDS.html         http://1.ieee802.org/object-identifiers/    [P,L]
 
 RewriteRule ^/1/maint.html              http://1.ieee802.org/maintenance/           [P,L]
